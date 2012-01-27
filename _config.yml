@@ -1,3 +1,4 @@
 pygments: true
 markdown: maruku
 permalink: none
+baseurl: /wolfrevokcats
