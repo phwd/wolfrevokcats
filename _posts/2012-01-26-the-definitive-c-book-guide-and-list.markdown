@@ -7,7 +7,7 @@ title: The Definitive C++ Book Guide and List
 <a href="http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list" rel="nofollow">The Definitive C++ Book Guide and List</a>  
 </h1>  
 <br>
-This content was sourced from [Stack Overflow](http://stackoverflow). See Copyright notice at the end of this post.  
+This content was sourced from [Stack Overflow](http://stackoverflow.com). See Copyright notice at the end of this post.  
 <br>
 Original Poster:  
 <a href="http://stackoverflow.com/users/14388/grepsedawk" style="text-decoration: none;">
