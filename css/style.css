@@ -215,8 +215,6 @@ blockquote {
 #sidebar {
     position: fixed;
     left: 700px;
-    right: 0;
-	width: 100%;
 }
 
 
