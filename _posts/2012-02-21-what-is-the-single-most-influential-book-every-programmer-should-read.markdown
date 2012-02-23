@@ -7,7 +7,7 @@ title: What is the single most influential book every programmer should read?
 <a href="http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read" rel="nofollow">What is the single most influential book every programmer should read?</a>
 </h1>
 <br>
-This content was sourced from [Stack Overflow](http://stackoverflow.com). See Copright notice at the end of this post.  
+This content was sourced from [Stack Overflow](http://stackoverflow.com). See Copyright notice at the end of this post.  
 <br 
 List of books with more than 10 upvotes.
 <br>
